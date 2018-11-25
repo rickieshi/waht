@@ -1,5 +1,5 @@
 import VueRouter from 'vue-router';
-import { Index, Auth } from './components';
+import { Index, Auth } from './views';
 
 const routes = [{
     path: '/', component: Index, name: 'index'
